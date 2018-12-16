@@ -1,0 +1,23 @@
+#dp{
+    margin-top: 30px;
+    margin-left: 111px;
+}
+.img-circle{
+    border: solid #ccc 2px;
+    height: 60px;
+}
+#name{
+    font-size: 20px;
+    font-weight: bolder
+   
+}
+#editbtn{
+    margin-left: -20px; 
+}
+button{
+    padding: 4px;
+}
+.list-inline{
+    margin-top: 20px;
+    font-weight: bolder;
+}
