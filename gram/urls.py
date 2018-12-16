@@ -25,3 +25,4 @@ urlpatterns = [
     url(r'^friendship/', include('friendship.urls')),
 
 ]
+
